@@ -118,7 +118,7 @@ header{
     width: 38%;
     height: 430px;
     display: flex;
-    background-image: url("intro_left.png");
+    background-image: url("intro_left.jpg");
     background-size: cover;
     background-position: center;
     
@@ -175,7 +175,7 @@ header{
     width: 38%;
     height: 430px;
     display: flex;
-    background-image: url("intro_right.png");
+    background-image: url("intro_right.jpg");
     background-size: cover;
     background-position: center;
 }
