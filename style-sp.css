@@ -98,7 +98,7 @@ header{
     display: flex;
     cursor: pointer;
 }
-.menu_bar2 img:hover
+.img:hover
 {
    filter: brightness(2);
 }
