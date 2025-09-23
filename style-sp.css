@@ -172,8 +172,8 @@ header{
 }
 
 .middle_part{
-    width: 585px;
-    height: 600px;
+    width: 300px;
+    height: 400px;
     background-color: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
@@ -181,8 +181,8 @@ header{
 }
 
 .mid_img{
-    width: 585px;
-    height: 440px;
+    width: 300px;
+    height: 300px;
 }
 
 .mid_head{
