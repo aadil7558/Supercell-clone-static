@@ -106,7 +106,7 @@ header{
     height: 600px;
     margin: auto;
     margin-top: 0;
-    background-image: url("intro.png");
+    background-image: url("img/intro.png");
     background-position: center;
     background-size: cover;
     overflow: hidden;
@@ -221,7 +221,7 @@ header{
     height: 600px;
     display: flex;
     flex-direction: row;
-    background-image: url(btm_background.jpg);
+    background-image: url("img/btm_background.jpg");
     background-position: center;
     background-size: cover;
     justify-content: center;
